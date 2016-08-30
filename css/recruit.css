@@ -1,0 +1,99 @@
+
+/**/
+.border{border:1px solid #999;}
+.nav{height:100px;}
+.nav .logo{display: inline-block;height:84px;padding-top:16px}
+.nav .grabble{width:410px;height:75px;padding-top:25px}
+.keyword{width:336px;height:29px;padding-left:10px}
+.sosuo{display:inline-block;width:57px;height:32px;background:#000;text-align: center;line-height:32px;}
+.sosuo a{color:#fff;font-size:14px;}
+.grabble p{padding-top:9px;}
+.grabble p span{display: inline-block;padding-right:13px;}
+.navbars{height:40px;background:#7a1607;}
+.outlet li{float:left;width:120px;height:40px;line-height:40px;text-align:center;}
+.outlet li a{color:#fff;font-size:14px;}
+.outlet li:hover{background:#3b0704}
+.libordeleft{border-right:1px solid #5b0d01;}
+.liborderight{border-left:1px solid #8e392c;}
+/**/
+.outlet li{float:left;width:120px;height:40px;line-height:40px;text-align:center;}
+.outlet li a{color:#fff;font-size:14px;}
+.outlet li:hover{background:#3b0704}
+.libordeleft{border-right:1px solid #5b0d01;}
+.liborderight{border-left:1px solid #8e392c;}
+/*头部完了*/
+.mein{width:1000px;margin:0 auto;height:890px}
+.mein .choose{height:68px;margin:15px 0px;}
+.choose_logo{height:56px;width:164px;margin-top:7px;border-right:1px solid #dfdfdf;line-height:68px;}
+.choose_logo img{float:left;padding-top:8px;padding-left:14px}
+.choose_logo span{font-size:18px;padding-left:8px;font-weight:900;}
+.classify{height: 80%;margin-top:13px; width: 60%;}
+.classify li{float:left;width: 84px;height: 24px;text-align: center;}
+.classify li a{color:#000;padding:0px 6px;line-height:24px;}
+.classify li:hover{background:#000;}
+.classify li:hover  a{color:#fff;}
+.qqzx{display:inline-block;width:110px;height:33px;border:1px solid #caa29c;background:#7a1607 url("../images/qqq.png") no-repeat 10px center;color:#fff;text-align: center;line-height:33px;
+    border-radius:5px; margin-top:20px;}
+.zxzx{display:inline-block;width:110px;height:33px;border:1px solid #caa29c;background:#7a1607 url("../images/multiple-chat.png") no-repeat 10px center;;color:#fff;text-align: center;line-height:33px;
+    border-radius:5px;margin-top:20px;background-size:18px}
+/*头部下面的*/
+.regards{width:713px;border-top:2px solid #7c3b37 !important;}
+.regards_title{width:95%;margin:0 auto;border-bottom:1px solid #dfdfdf;height:46px;margin-bottom:18px;}
+.regards_title h2{line-height:46px;font-weight:900;width:108px;border-bottom:1px solid #7a1607;margin-bottom:-1px;}
+.regards_title h2 em{color:#a63123;}
+.regards_title span{display: inline-block;float: right;line-height:46px;color:#888;}
+.regards_mein{width:95%;margin:0 auto;}
+.post{height:30px;background:url("../images/zp_bg_03.jpg") left bottom repeat-x;}
+.post ul li{float:left;line-height:30px;}
+.details{height:46px;position:relative}
+.details em{position:absolute;left:36px;bottom:-4px}
+.details ul li{float:left;line-height:46px;}
+.synopsis{padding-left:20px;padding-top:10px;margin-bottom:12px;}
+.synopsis p{line-height:26px;font-size:14px;}
+.baojie{border-top:1px dotted #dfdfdf;background:#f2f2f2}
+.wen{height:44px;border-bottom:1px dotted #dfdfdf;}
+.wen ul li{float:left;line-height:44px;}
+
+
+.regards .regards_mein .none{display:none;}
+
+
+
+
+
+
+
+
+
+
+/*内容右边的*/
+.quanshananmo{width:269px;height:441px;padding:2px;}
+.quanshananmo_title{height:30px;background:#f5f5f5;}
+.quanshananmo_title h2{line-height:30px;font-size:14px;padding-left:12px;display: inline-block;}
+.quanshananmo_title ul{float:right;margin-right:10px;}
+.quanshananmo_title ul li{float: left;width:10px;height:10px;margin-left:5px;margin-top:10px;}
+.quanshananmo_title ul li a{display: block;width:100%;height:100%;background:#c0c0c0;border-radius:50%;}
+.quanshananmo_title ul li a.hover{background:#7d1104;}
+.quanshananmo_pic img{width:100%;height:287px;}
+/**/
+.relation{width:74%;margin:0 auto;padding-top:15px;background:url("../images/ls-46.jpg") no-repeat left 15px;padding-left:46px;position: relative;height:110px;}
+.relation p{color:#821606;}
+.relation p span{color:#e4e4e4;padding-left:5px; }
+.relation h3{font-size:24px;color:#821606;opacity:0.5;-webkit-box-reflect: below -5px -webkit-gradient(linear, center top, center bottom, from(transparent),color-stop(0.2, transparent), to(white)); }
+.relation .contact{height:33px;width:100%;position:absolute;left:0px;bottom:13px;}
+.relation .contact span{display:inline-block;height:100%;float: left;text-align: center;line-height:33px;font-size:13px;}
+.relation .contact span em{color:#821606;}
+.relation .contact span.qqlx{background:url("../images/qq-43.jpg") no-repeat left center;background-size:25px;border-right:1px solid #dbdbdb;
+    width:40%}
+.relation .contact span.zxlx{background:url("../images/zx-42.jpg") no-repeat 5px center;background-size:34px;
+    width:59%}
+/*最后一点医生的介绍*/
+.doctor{width:273px;height:290px;margin-top:15px;position:relative;}
+.doctor_pic img{width:100%;height:159px;}
+.doctor_pic ul{position: absolute;right:10px;top:10px;}
+.doctor_pic ul li{width:10px;height:10px;margin-left:10px;float: left;}
+.doctor_pic ul li a{display: block;width:100%;height:100%;background:#c0c0c0;border-radius:50%;}
+.doctor_pic ul li a.hover{background:#7d1104;}
+.doctor_name{padding-left:15px;}
+.doctor_name h2{line-height:30px;font-weight:700;font-size:12px;}
+.doctor_name p{line-height:24px;}
